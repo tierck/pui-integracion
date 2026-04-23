@@ -12,7 +12,9 @@ app.post('/activar-reporte', authenticateJWT, activarReporte);
 app.post('/activar-reporte-prueba', authenticateJWT, activarReporte);
 app.post('/desactivar-reporte', authenticateJWT, desactivarReporte);
 
-const PORT = 3000;
+//const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+
 app.listen(PORT, () => {
   logger.info(`🚀 PUI activa en puerto ${PORT}`);
 });
