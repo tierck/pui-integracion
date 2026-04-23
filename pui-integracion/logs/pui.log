@@ -1,0 +1,18 @@
+{"level":"info","message":"🚀 PUI activa en puerto 3000","timestamp":"2026-04-23T04:40:35.508Z"}
+{"level":"info","message":"🚀 PUI activa en puerto 3000","timestamp":"2026-04-23T04:48:04.900Z"}
+{"level":"info","message":"🚀 PUI activa en puerto 3000","timestamp":"2026-04-23T04:50:02.772Z"}
+{"level":"info","message":"🔍 Activando reporte: TEST-550e8400-e29b-41d4-a716-446655440000 - TEST010101HDFABC01","timestamp":"2026-04-23T04:52:38.138Z"}
+{"level":"info","message":"🔍 FASE 1: Buscando datos básicos...","timestamp":"2026-04-23T04:52:38.139Z"}
+{"level":"info","message":"📜 FASE 2: Búsqueda histórica...","timestamp":"2026-04-23T04:52:39.169Z"}
+{"level":"info","message":"✅ FASES completadas. Búsqueda continua cada 4h","timestamp":"2026-04-23T04:52:40.173Z"}
+{"level":"info","message":"🔍 Activando reporte: TEST-NUEVO-123 - TEST020202MMSABC02","timestamp":"2026-04-23T04:52:51.733Z"}
+{"level":"info","message":"🔍 FASE 1: Buscando datos básicos...","timestamp":"2026-04-23T04:52:51.734Z"}
+{"level":"info","message":"📜 FASE 2: Búsqueda histórica...","timestamp":"2026-04-23T04:52:52.750Z"}
+{"level":"info","message":"✅ FASES completadas. Búsqueda continua cada 4h","timestamp":"2026-04-23T04:52:53.758Z"}
+{"level":"info","message":"🔍 Activando reporte: PRUEBA-001 - PRUEBA010101HDF001","timestamp":"2026-04-23T04:53:32.601Z"}
+{"level":"info","message":"🔍 FASE 1: Buscando datos básicos...","timestamp":"2026-04-23T04:53:32.602Z"}
+{"level":"info","message":"📜 FASE 2: Búsqueda histórica...","timestamp":"2026-04-23T04:53:33.616Z"}
+{"level":"info","message":"✅ FASES completadas. Búsqueda continua cada 4h","timestamp":"2026-04-23T04:53:34.627Z"}
+{"level":"info","message":"🛑 Desactivando reporte: PRUEBA-001","timestamp":"2026-04-23T04:53:34.779Z"}
+{"level":"info","message":"🚀 PUI activa en puerto 3000","timestamp":"2026-04-23T05:13:55.937Z"}
+{"level":"info","message":"🚀 PUI activa en puerto 3000","timestamp":"2026-04-23T05:16:51.126Z"}
