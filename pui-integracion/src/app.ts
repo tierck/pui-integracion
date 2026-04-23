@@ -18,3 +18,7 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   logger.info(`🚀 PUI activa en puerto ${PORT}`);
 });
+
+app.get("/", (req, res) => {
+  res.send("API funcionando ??");
+});
