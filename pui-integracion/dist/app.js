@@ -14,7 +14,6 @@ app.post('/login', auth_middleware_1.loginPUI);
 app.post('/activar-reporte', auth_middleware_1.authenticateJWT, activar_reporte_controller_1.activarReporte);
 app.post('/activar-reporte-prueba', auth_middleware_1.authenticateJWT, activar_reporte_controller_1.activarReporte);
 app.post('/desactivar-reporte', auth_middleware_1.authenticateJWT, desactivar_reporte_controller_1.desactivarReporte);
-//const PORT = 3000;
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     logger_1.default.info(`🚀 PUI activa en puerto ${PORT}`);
